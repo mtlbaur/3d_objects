@@ -13,11 +13,11 @@ project/*
 !project/resources
 !project/blender
 
-# !.clang-format
-# !.clang-tidy
+!.clang-format
+!.clang-tidy
 
-# !CMakeLists.txt
-# !setup.ps1
+!CMakeLists.txt
+!setup.ps1
 
 !README.md
 !LICENSE.md
