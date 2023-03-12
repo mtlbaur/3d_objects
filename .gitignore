@@ -9,9 +9,9 @@
 project/*
 # include specific folders within project
 !project/source
-# !project/tests
-# !project/resources
-# !project/blender
+!project/tests
+!project/resources
+!project/blender
 
 # !.clang-format
 # !.clang-tidy
