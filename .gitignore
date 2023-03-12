@@ -3,12 +3,12 @@
 
 !.gitignore
 
-# # include project
-# !project
-# # ignore everything in project
-# project/*
-# # include specific folders within project
-# !project/source
+# include project
+!project
+# ignore everything in project
+project/*
+# include specific folders within project
+!project/source
 # !project/tests
 # !project/resources
 # !project/blender
